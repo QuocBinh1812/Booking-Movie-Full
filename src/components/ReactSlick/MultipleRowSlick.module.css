@@ -1,0 +1,34 @@
+/* .style{
+    padding:0px;
+    margin:0px;
+} */
+.width-item{
+    width:100% !important;
+}
+.slick-prev:before {
+    color: white !important;
+    font-size: 3rem !important;
+}
+
+.slick-next:before{
+    color: white !important;
+    font-size: 3rem !important;
+}
+
+.active_Film {
+    @apply bg-gray-800 text-red-600;
+}
+
+.none_active_Film{
+    @apply bg-gray-800 text-red-600;
+}
+
+.slick-next  {
+    left: -53px;
+    top:47%;
+}
+.slick-prev{
+    top:47%
+}
+
+

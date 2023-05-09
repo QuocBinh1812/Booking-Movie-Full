@@ -1,0 +1,37 @@
+
+/* ghế thường */
+.ghe{
+    width: 35px;
+    height:35px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin:12px;
+    background-color:rgb(123,122,122);
+    color:#fff;
+   
+}
+.gheDaDat{
+    background-color:rgb(232,76,76);
+    cursor:no-drop;
+
+}
+
+.gheDangDat{
+    background-color:rgb(18,176,18)!important;
+}
+
+.gheVip{
+    background-color:rgb(228,74,8);
+}
+.gheDaDuocDat{
+    /* ghế do chính bạn đặt */
+    background-color:rgb(213, 236, 10);
+    box-shadow: 0px 20px 23px 17px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px 20px 23px 17px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 20px 23px 17px rgba(0,0,0,0.75);
+color:black !important;
+}
+.gheKhachDat{
+    background-color: rgb(242,25,192) !important;
+    cursor: pointer;
+}
